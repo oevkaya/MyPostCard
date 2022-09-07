@@ -1,0 +1,55 @@
+---
+title: "Ozan Evkaya"
+image: "ozan.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ozanevkaya/"
+  - label: GitHub
+    url: "https://github.com/oevkaya"
+  - label: Twitter
+    url: "https://twitter.com/ozanevkaya"
+  - label: Researchgate
+    url: "https://www.researchgate.net/profile/Ozan-Evkaya"
+  - label: Instagram
+    url: "https://www.instagram.com/ozanevkaya/"
+  - label: Email
+    url: "mailto:ozanevkaya@gmail.com"
+output:
+  postcards::solana
+---
+ 
+## About Me
+
+I am University Teacher in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer TED University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018.
+
+I’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment. I have a certain level of R skills and novice learner for Python programming. I am ambitious about improving my statistical learning skills by leading/organizing/being a part of training workshops.
+
+## Experience
+
+#### Research
+
+**Department of Statistical Sciences, Universita Degli Studi Di Padova** | Postdoctoral Researcher (Bayesian methods for conditional dependence learning) | January 2021 - February 2022
+
+**TU Dresden** | Visiting Researcher (Subsampling for HAC parameter estimation) | October 2020 - December 2020
+
+**ORSTAT, KU Leuven** | Postdoctoral Researcher ( Semi-parametric approach for copula directed acyclic graphs) | January 2020 - September 2020
+
+#### Teaching
+
+**School of Mathematics, The University of Edinburgh** | University Teacher (Stats) | March 2022 - Present
+
+**Department of Mathematics, Atilim University** | Teaching Assistant | October 2009 - December 2019
+
+## Education
+
+**Middle East Technical University** | Ankara, Turkey
+
+Ph.D. in Statistics | September 2012 - August 2018
+
+**Middle East Technical University** | Ankara, Turkey
+
+MSc. in Actuarial Science | September 2009 - August 2012
+
+**Middle East Technical University** | Ankara, Turkey
+
+BSc. in Mathematics | September 2004 - June 2009
