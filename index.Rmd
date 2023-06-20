@@ -20,7 +20,7 @@ output:
  
 ## About Me
 
-I am University Teacher in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer TED University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018.
+I am University Teacher in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer at Istinye/Bilgi University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD in Statistics at Middle East Technical University in 2018.
 
 I’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment. I have a certain level of R skills and novice learner for Python programming. I am ambitious about improving my statistical learning skills by leading/organizing/being a part of training workshops.
 
